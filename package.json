@@ -13,13 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/anilu-221/gsap-classes/issues"
   },
   "homepage": "https://github.com/anilu-221/gsap-classes#readme",
   "devDependencies": {
-    "laravel-mix": "^6.0.49"
+    "laravel-mix": "^6.0.49",
+    "sass": "^1.90.0",
+    "sass-loader": "^12.1.0"
   },
   "dependencies": {
     "gsap": "^3.13.0"
